@@ -40,5 +40,4 @@
 	The backend will run on the port specified in `app.py` (commonly http://localhost:5000).
 
 ---
-Update this README with more details as your project evolves.
 
